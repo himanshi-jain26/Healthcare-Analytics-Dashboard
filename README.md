@@ -141,7 +141,7 @@ Analyzes:
 
 ### Executive Summary
 
-![Executive Summary](Dashboard/Executive_Summary.png)
+![Executive Summary](Dashboard/Executive_summary.png)
 
 ### Patient & Doctor Analysis
 
