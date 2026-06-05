@@ -149,7 +149,7 @@ Analyzes:
 
 ### Financial Performance Analysis
 
-![Financial Performance](Dashboard/Financial_Performance.png)
+![Financial Performance](Dashboard/Financial_Analysis.png)
 
 ---
 
